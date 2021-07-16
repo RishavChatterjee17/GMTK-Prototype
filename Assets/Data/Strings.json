@@ -1,0 +1,29 @@
+{
+    "emails":
+    [
+      {
+        "text": "Maecenas ullamcorper egestas turpis",
+        "level": "0"
+      },
+      {
+        "text": "Fusce tristique nisi sed sem lobortis",
+        "level": "0"
+      },
+      {
+        "text": "Suspendisse condimentum nibh non dolor aliquet, sit amet tempus",
+        "level": "1"
+      },
+      {
+        "text": "Donec pretium sem felis, ut sodales augue egestas a",
+        "level": "1"
+      },
+      {
+        "text": "Quisque luctus, urna in pharetra hendrerit, orci enim accumsan dui",
+        "level": "2"
+      },
+      {
+        "text": "Vestibulum purus dui, mattis sit amet turpis a, rutrum consectetur risus",
+        "level": "2"
+      }
+    ]
+  }
